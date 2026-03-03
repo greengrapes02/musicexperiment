@@ -1,0 +1,14 @@
+{
+  "name": "68c81dce0b0653f1",
+  "main": "68c81dce0b0653f1@845.js",
+  "version": "845.0.0",
+  "homepage": "https://observablehq.com/d/68c81dce0b0653f1",
+  "author": {
+    "name": "rup's ws",
+    "url": "https://observablehq.com/@rups-ws"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
