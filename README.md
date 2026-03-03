@@ -1,3 +1,8 @@
+View on preview on Youtube: https://youtu.be/mzna1FXE1WI
+[![Dashboard Demo](https://img.youtube.com/vi/mzna1FXE1WI/maxresdefault.jpg)](https://youtu.be/mzna1FXE1WI)
+
+
+
 # Billboard Top 10 Visualizations
 
 https://observablehq.com/d/68c81dce0b0653f1@845
